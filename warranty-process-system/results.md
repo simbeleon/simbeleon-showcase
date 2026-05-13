@@ -32,7 +32,6 @@ The improvement wasn't a single fix — it was a set of structural changes appli
 | Total claim value processed | ±€1,250,000 |
 | Average claim value | ±€750 |
 | Active maintenance contracts | ±150 |
-| Clients on contract | Ores, Sibelga, Equans, Fluvius |
 
 ---
 
@@ -45,7 +44,7 @@ The improvement wasn't a single fix — it was a set of structural changes appli
 - SLA performance monitored per contract
 - Discrepancies between contract scope and actual service delivery flagged and resolved
 
-The utility client base (Ores, Sibelga, Equans, Fluvius) operates under strict compliance requirements. Contract documentation needed to be accurate, current, and audit-ready at all times.
+The utility client base operates under strict compliance requirements. Contract documentation needed to be accurate, current, and audit-ready at all times.
 
 ---
 
