@@ -29,7 +29,7 @@ I built the system from zero.
 - Manufacturer communication logs tied to individual claim records
 
 ### Contract Management Layer
-- ±150 active maintenance contracts managed across Ores, Sibelga, Equans, and Fluvius
+- ±150 active maintenance contracts managed across big companies in Benelux.
 - Contract terms mapped to claim eligibility rules
 - Renewal tracking and expiry alerts
 - SLA compliance monitoring per contract
@@ -43,7 +43,6 @@ I built the system from zero.
 | Claims managed | ±1,660 |
 | Total claim value | ±€1,250,000 |
 | Active maintenance contracts | ±150 |
-| Key clients | Ores, Sibelga, Equans, Fluvius |
 | Operating scope | Benelux |
 
 ---
